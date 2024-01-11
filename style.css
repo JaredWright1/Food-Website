@@ -39,7 +39,7 @@ h1 {
 }
 
 .active {
-  background-color: green;
+  background-color: rgb(61, 61, 61);
   color: white;
 }
 
